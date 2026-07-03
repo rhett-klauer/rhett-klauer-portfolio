@@ -9,7 +9,7 @@ Cybersecurity Projects, THM/HTB Writeups, OverTheWire Level Writeups, NCL Writeu
 * My name is Rhett Klauer
 * Pronouns: He/Him
 * I’m currently working on obtaining my CompTIA Security+ Certificate
-* I’m in my senior year of college, where I am a Cybersecurity major
+* I’m in my senior year at the College of William & Mary, majoring in Cybersecurity
 
 <p>
 <a href="https://www.linkedin.com/in/rhett-klauer-565b9b362/">
