@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/rhett-klauer/rhett-klauer-projects/blob/main/.github/images/floodedjapan.gif"/>
+<img src="https://github.com/rhett-klauer/rhett-klauer-projects/blob/main/.github/images/wren.jpeg"/>
 </p>
 
 # rhett-klauer-projects
@@ -18,12 +18,12 @@ Cybersecurity Projects, THM/HTB Writeups, OverTheWire Level Writeups, NCL Writeu
 
 <p align="center">
 <a href="https://tryhackme.com/p/rorova">
-  <img height="50" src="https://github.com/rhett-klauer/rhett-klauer-projects/blob/main/.github/images/lin.png"/>
+  <img height="50" src="https://github.com/rhett-klauer/rhett-klauer-projects/blob/main/.github/images/thm.jpeg"/>
 </a>
 
 <p align="center">
 <a href="https://profile.hackthebox.com/profile/019e9a06-f24e-7296-8745-fd408fc71e91">
-  <img height="50" src="https://github.com/rhett-klauer/rhett-klauer-projects/blob/main/.github/images/lin.png"/>
+  <img height="50" src="https://github.com/rhett-klauer/rhett-klauer-projects/blob/main/.github/images/htb.jpeg"/>
 </a>
 
 <a href="https://rhettklauer@gmail.com">
